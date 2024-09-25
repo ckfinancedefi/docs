@@ -4,28 +4,34 @@ sidebar_position: 2
 
 # Roadmap
 
-Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
+"Don't call it a roadmap"
 
-It builds your site as simple **static HTML, JavaScript and CSS files**.
+## Finally, it's a roadmap not a to-do list.
 
-## Build your site
+Crypto moves fast, and we move fast too.
 
-Build your site **for production**:
+That means that we don’t publicly commit to specific timelines, so we can organize our development priorities based on market changes and developer resources.
 
-```bash
-npm run build
-```
+Due to considerations of security and confidentiality, some items are not included in the ‘roadmap’ section.
 
-The static files are generated in the `build` folder.
+## Cooking in Q3
 
-## Deploy your site
+- DEX: New Trading Venue
+- Web3 Quest Platform
+- UI/UX Revamp
+- Multichain Simple Staking
+- Docs Website
 
-Test your production build locally:
+## Done
 
-```bash
-npm run serve
-```
+### Trade
 
-The `build` folder is now served at [http://localhost:3000/](http://localhost:3000/).
+- Limit Orders
+- Stablecoin Swap - more pairs added
+- Token Risks Scanning
 
-You can now deploy the `build` folder **almost anywhere** easily, **for free** or very small cost (read the **[Deployment Guide](https://docusaurus.io/docs/deployment)**).
+### Earn
+
+- CK Staking
+- Liquid Staking Integration
+- Simple Staking Integration
