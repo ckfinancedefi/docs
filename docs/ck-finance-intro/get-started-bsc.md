@@ -2,22 +2,24 @@
 sidebar_position: 1
 ---
 
-# Get Started (BSC)!
+# Get Started (BSC)
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+Using anything new can be a bit of a challenge. Don't worry though, we've created a range of guides to help you get comfortable with CK Finance!
 
-Docusaurus has **much more to offer**!
+## Setting up CK Finance
 
-Have **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**.
+Follow these guides to get everything set up to use PancakeSwap, or feel free to jump to the guide you need if you've been doing okay but lost your way.
 
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
+[Create a Wallet](https://docusaurus.io/)
+[Get BEP20 Tokens](https://docusaurus.io/)
+[Connect Your Wallet to CK Finance](https://docusaurus.io/)
 
-## What's next?
+## Guides for using CK Finance features
 
-- Read the [official documentation](https://docusaurus.io/)
-- Modify your site configuration with [`docusaurus.config.js`](https://docusaurus.io/docs/api/docusaurus-config)
-- Add navbar and footer items with [`themeConfig`](https://docusaurus.io/docs/api/themes/configuration)
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+Once you have a wallet set up and connected to PancakeSwap, feel free to check our other how to guides below.
+
+[How to Trade](https://docusaurus.io/)
+
+Check the menu for more documentation on the range of CK Finance features and services, including more advanced guides.
+
+If you can't find what you need, feel free to visit the [CK Finance Telegram](https://t.me/ckfinance/) and ask for help there!
