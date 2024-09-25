@@ -5,12 +5,12 @@ yangshun:
   image_url: https://github.com/yangshun.png
   page: true
   socials:
-    x: ckfinancedefi
+    x: yangshunz
     github: ckfinancedefi
 
 slorber:
-  name: CK Finance
-  title: Frontend CK Team
+  name: Sébastien Lorber
+  title: Docusaurus maintainer
   url: https://sebastienlorber.com
   image_url: https://github.com/slorber.png
   page:
@@ -18,5 +18,6 @@ slorber:
     permalink: '/all-sebastien-lorber-articles'
   socials:
     x: sebastienlorber
-    linkedin: ckfinancedefi
+    linkedin: sebastienlorber
+    github: slorber
     newsletter: https://thisweekinreact.com
