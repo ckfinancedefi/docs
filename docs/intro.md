@@ -2,47 +2,33 @@
 sidebar_position: 1
 ---
 
-# CK Finance Intro
+# CK Finance
 
 **CK Finance helps you make the most out of your crypto in three ways: Trade and Earn.**
 
-## Getting Started
+## Trade
 
+[Instantly swap crypto tokens: no registration or account needed.]
 
-Get started by **creating a new site**.
+## Low fees
+Why pay more? PancakeSwap runs on BNB Smart Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin.
+Trading fees are lower than other top decentralized exchanges too, so that's a double win for you!
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Decentralized
+Trade directly from your wallet app.
+Unlike centralized exchanges like Binance or Coinbase, PancakeSwap doesn’t hold your funds when you trade: you have 100% ownership of your own crypto.
 
-### What you'll need
+# Is CK Finance safe?
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## See for yourself:
 
-## Generate a new site
+## Transparent:
+- We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
+- Our contracts are verified on BscScan so you know that what you see is what you get.
 
-Generate a new Docusaurus site using the **classic template**.
+## Security best practices:
+- The ck teams use multisig for all contracts.
+- Our contracts’ time-locks give you peace of mind.
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Sounds like fun?
+Then join us!
