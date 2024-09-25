@@ -2,11 +2,12 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# CK Finance Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+**CK Finance helps you make the most out of your crypto in three ways: Trade and Earn.**
 
 ## Getting Started
+
 
 Get started by **creating a new site**.
 

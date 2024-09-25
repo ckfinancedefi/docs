@@ -8,9 +8,9 @@ yangshun:
     x: ckfinancedefi
     github: ckfinancedefi
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
+ckfinance:
+  name: CK Finance
+  title: Frontend CK Team
   url: https://sebastienlorber.com
   image_url: https://github.com/slorber.png
   page:
