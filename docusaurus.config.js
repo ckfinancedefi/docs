@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'CK Finance',
+  tagline: 'CK Finance Docs',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -74,9 +74,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'CK Finance',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'CK Finance Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -88,7 +88,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/ckswap',
             label: 'GitHub',
             position: 'right',
           },
@@ -110,16 +110,16 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Telegram',
+                href: 'https://t.me/ckfinance',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/PrNAWrrpeg',
               },
               {
                 label: 'X',
-                href: 'https://x.com/docusaurus',
+                href: 'https://x.com/ckfinancedefi',
               },
             ],
           },
@@ -132,12 +132,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/ckswap',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} CK Finance, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
