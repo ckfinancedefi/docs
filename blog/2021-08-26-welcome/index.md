@@ -1,7 +1,7 @@
 ---
 slug: hello-world
 title: Hello World
-authors: [CK Finance]
+authors: [ckfinance]
 tags: [facebook, hello, docusaurus]
 ---
 
