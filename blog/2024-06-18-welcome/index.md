@@ -1,8 +1,8 @@
 ---
 slug: medium-ckfinance
 title: Hello World
-authors: [ckteam, yangshun]
-tags: [facebook, hello, docusaurus]
+authors: ckteam
+tags: defi
 ---
 
 [CK general blog](https://ckfinance.medium.com/) posts about the cryptocurrency world.
