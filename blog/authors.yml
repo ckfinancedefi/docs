@@ -21,3 +21,13 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+ckteam:
+  name: CK Front End Team
+  title: Front End Engineer
+  url: https://github.com/ckfinancedefi
+  image_url: https://github.com/yangshun.png
+  page: true
+  socials:
+    x: ckfinancedefi
+    github: ckfinancedefi

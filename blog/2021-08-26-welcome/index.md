@@ -1,29 +1,21 @@
 ---
-slug: hello-world
+slug: medium-ckfinance
 title: Hello World
-authors: [slorber, yangshun]
+authors: [ckteam, yangshun]
 tags: [facebook, hello, docusaurus]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+[CK general blog](https://ckfinance.medium.com/) posts about the cryptocurrency world.
 
-Here are a few tips you might find useful.
+Please check out our medium page for details.
 
 <!-- truncate -->
 
-Simply add Markdown files (or folders) to the `blog` directory.
+Our blog content:
 
-Regular blog authors can be added to `authors.yml`.
+- [Web3 DApp](https://ckfinance.medium.com/web3-dapp-ce84cca00039)
+- [Web3 Development](https://ckfinance.medium.com/web3-development-f105641cd3ae)
 
-The blog post date can be extracted from filenames, such as:
+![CK Finance | Medium](./medium-blog-ckfinance.jpg)
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
-
-A blog post folder can be convenient to co-locate blog post images:
-
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
-
-The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+**We want to make sure you have enough information when trading in defi.!**
