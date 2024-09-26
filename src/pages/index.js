@@ -13,7 +13,7 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          {siteConfig.title}
+          {siteConfig.title}<img src="ckfinance-black-logo.jpg" alt="CK App">
         </Heading>
         <p className="hero__subtitle">No registration or account needed.</p>
         <div className={styles.buttons}>
@@ -32,8 +32,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`CK Finance Intro`}
+      description="DeFi Platform <head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
