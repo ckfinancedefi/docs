@@ -4,32 +4,31 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Trade Now',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Trade, earn, and own crypto on the all-in-one multichain DEX.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Discover the Ecosystem',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Experience the power of community ownership, global governance,
+        and explore infinite use cases within the CK Finance ecosystem.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Join our Community',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Together we can make the CK Finance community even stronger.
+        Unlock the Full Potential of DeFi with <code>CK</code>.
       </>
     ),
   },
