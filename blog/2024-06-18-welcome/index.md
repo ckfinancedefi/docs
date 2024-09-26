@@ -1,8 +1,8 @@
 ---
 slug: medium-ckfinance
 title: Hello World
-authors: ckteam
-tags: defi
+authors: [ckteam, ckdev]
+tags: [defi]
 ---
 
 [CK general blog](https://ckfinance.medium.com/) posts about the cryptocurrency world.

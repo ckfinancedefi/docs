@@ -1,11 +1,11 @@
 ---
 slug: long-blog-post
 title: Long Blog Post
-authors: ckteam
-tags: defi
+authors: [ckteam]
+tags: [defi]
 ---
 
-This is the summary of a very long blog post,
+This is the summary of a very long blog post, defi
 
 Use a `<!--` `truncate` `-->` comment to limit blog post size in the list view.
 

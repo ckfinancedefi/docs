@@ -31,3 +31,13 @@ ckteam:
   socials:
     x: ckfinancedefi
     github: ckfinancedefi
+
+ckdev:
+  name: CK Team Developer
+  title: Developer Engineer @ CK
+  url: https://github.com/ckfinancedefi
+  image_url: https://github.com/yangshun.png
+  page: true
+  socials:
+    x: ckfinancedefi
+    github: ckfinancedefi

@@ -1,11 +1,11 @@
 ---
 slug: first-blog-post
 title: First Blog Post
-authors: ckteam
-tags: defi
+authors: [ckteam]
+tags: [defi]
 ---
 
-Lorem ipsum dolor sit amet...
+Lorem ipsum dolor defi amet...
 
 <!-- truncate -->
 
