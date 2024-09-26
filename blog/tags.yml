@@ -2,3 +2,8 @@ defi:
   label: defi
   permalink: /defi
   description: Defi Decentralized finance
+
+update:
+  label: update
+  permalink: /update
+  description: CK Finance Update

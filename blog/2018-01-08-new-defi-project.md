@@ -1,8 +1,8 @@
 ---
-slug: first-blog-post
-title: First Blog Post
-authors: [ckteam]
-tags: [defi]
+slug: new-defi-project
+title: New Defi Project
+authors: [ckteam, ckupdate]
+tags: [defi, update]
 ---
 
 Lorem ipsum dolor defi amet...

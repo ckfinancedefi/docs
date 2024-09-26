@@ -1,6 +1,6 @@
 ---
 slug: medium-ckfinance
-title: Hello World
+title: Medium CK Finance
 authors: [ckteam, ckdev]
 tags: [defi]
 ---
