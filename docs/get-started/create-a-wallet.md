@@ -16,13 +16,22 @@ To get started on CK Finance, the first thing you'll need is to set up a wallet 
 ## Smartphone/Mobile or Desktop wallet?
 Mobile device wallets and desktop-based wallets have different strengths and weaknesses. Consider which fits your needs better to help decide which type of wallet to use.
 
-|                                       | Mobile | Desktop
-| Use anywhere                          | ✅    | ➖
-| Easy to use                           | ✅    | ➖
-| More secure                           | ➖    | ✅
-| Accessibility friendly                | ➖    | ✅
-| Damage/loss/theft resistant           | ➖    | ✅
-| Power/connection outage resistant     | ✅    | ➖
+### Mobile
+- Use anywhere ✅
+- Easy to use ✅
+- More secure ➖
+- Accessibility friendly ➖
+- Damage/loss/theft resistant ➖
+- Power/connection outage resistant ✅
+
+### Desktop
+- Use anywhere ➖
+- Easy to use ➖
+- More secure ✅
+- Accessibility friendly ✅
+- Damage/loss/theft resistant ✅
+- Power/connection outage resistant ➖
+
 
 ## Smartphone/Mobile wallets
 Smartphone/Mobile wallets allow you to access your crypto almost anywhere. Wallets are available on both Android and iOS devices.
@@ -30,3 +39,76 @@ Smartphone/Mobile wallets allow you to access your crypto almost anywhere. Walle
 ## Which mobile wallet should I choose?
 This comparison table gives an overview of the most popular mobile wallets used with CK Finance.
 
+- Metamask
+- - BNB Smart Chain support ⚠️
+- - Built-in DApp browser ➖
+- - Hardware wallet compatible ✅
+- - Open source (auditability) ✅
+- - Interact with BscScan Directly ✅
+- Coinbase Wallet
+- - BNB Smart Chain support ✅
+- - Built-in DApp browser ✅
+- - Hardware wallet compatible ✅
+- - Open source (auditability) ✅
+- - Interact with BscScan Directly ➖
+- SafePal
+- - BNB Smart Chain support ✅
+- - Built-in DApp browser ✅
+- - Hardware wallet compatible ✅
+- - Open source (auditability) ➖
+- - Interact with BscScan Directly ➖
+- Trust Wallet
+- - BNB Smart Chain support ✅
+- - Built-in DApp browser ✅
+- - Hardware wallet compatible ➖
+- - Open source (auditability) ✅
+- - Interact with BscScan Directly ➖
+- Token Pocket
+- - BNB Smart Chain support ✅
+- - Built-in DApp browser ✅
+- - Hardware wallet compatible ➖
+- - Open source (auditability) ✅
+- - Interact with BscScan Directly ➖
+
+⚠️ Requires some setup
+
+## Desktop/Web Browser wallets
+Desktop wallets are available on your home computer or laptop computer. Wallets on your computer can run as standalone applications, or as web browser plugins for popular browsers like Chrome and Firefox.
+
+## Which desktop wallet should I choose?
+This comparison table gives an overview of the most popular desktop wallets used with CK Finance.
+
+- Metamask
+- - BNB Smart Chain support ⚠️
+- - Built-in DApp browser ➖
+- - Hardware wallet compatible ✅
+- - Open source (auditability) ✅
+- - Interact with BscScan Directly ✅
+- Trust Wallet
+- - BNB Smart Chain support ✅
+- - Built-in DApp browser ✅
+- - Hardware wallet compatible ✅
+- - Open source (auditability) ✅
+- - Interact with BscScan Directly ✅
+- Binance Wallet
+- - BNB Smart Chain support ✅
+- - Built-in DApp browser ➖
+- - Hardware wallet compatible ✅
+- - Open source (auditability) ✅
+- - Interact with BscScan Directly ➖
+- Coinbase Wallet
+- - BNB Smart Chain support ✅
+- - Built-in DApp browser ➖
+- - Hardware wallet compatible ✅
+- - Open source (auditability) ✅
+- - Interact with BscScan Directly ➖
+- Token Pocket
+- - BNB Smart Chain support ⚠️
+- - Built-in DApp browser ✅
+- - Hardware wallet compatible ➖
+- - Open source (auditability) ✅
+- - Interact with BscScan Directly ➖
+
+⚠️ Requires additional setup
+
+⚠️ NEVER, in any situation, should you ever give someone your private key or recovery phrase ("seed phrase"). This will give someone complete access to your crypto! The genuine CK Finance site and staff will never ask you to input your seed phrase.
