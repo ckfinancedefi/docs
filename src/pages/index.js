@@ -15,12 +15,12 @@ function HomepageHeader() {
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
-        <p className="hero__subtitle">Instantly swap crypto tokens: no registration or account needed.</p>
+        <p className="hero__subtitle">No registration or account needed.</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            CK Finance helps you make the most out of your crypto in two ways: Trade and Earn.
+            Learn, Trade and Earn.
           </Link>
         </div>
       </div>
