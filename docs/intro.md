@@ -8,15 +8,15 @@ sidebar_position: 1
 
 ## Trade
 
-[Instantly swap crypto tokens: no registration or account needed.]
+Instantly swap crypto tokens: no registration or account needed.
 
 ## Low fees
-Why pay more? PancakeSwap runs on BNB Smart Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin.
+Why pay more? CK Finance runs on BNB Smart Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin.
 Trading fees are lower than other top decentralized exchanges too, so that's a double win for you!
 
 ## Decentralized
 Trade directly from your wallet app.
-Unlike centralized exchanges like Binance or Coinbase, PancakeSwap doesn’t hold your funds when you trade: you have 100% ownership of your own crypto.
+Unlike centralized exchanges like Binance or Coinbase, CK Finance doesn’t hold your funds when you trade: you have 100% ownership of your own crypto.
 
 # Is CK Finance safe?
 
