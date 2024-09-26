@@ -98,6 +98,14 @@ const config = {
                 label: 'Docs',
                 to: '/docs/intro',
               },
+              {
+                label: 'Company',
+                href: 'https://ck.finance/',
+              },
+              {
+                label: 'App',
+                href: 'https://ck.app/',
+              },
             ],
           },
           {
