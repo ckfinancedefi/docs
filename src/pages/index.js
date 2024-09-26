@@ -13,7 +13,7 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          {siteConfig.title}<img src="ckfinance-black-logo.jpg" alt="CK App">
+          {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">No registration or account needed.</p>
         <div className={styles.buttons}>
