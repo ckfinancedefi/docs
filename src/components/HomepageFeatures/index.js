@@ -1,11 +1,12 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import ckMoon from '@site/static/img/ck-moon.png';
 
 const FeatureList = [
   {
     title: 'Trade Now',
-    Svg: require('@site/static/img/ck-moon.svg').default,
+    Svg: ckMoon,
     description: (
       <>
         Trade, earn, and own crypto on the all-in-one multichain DEX.
