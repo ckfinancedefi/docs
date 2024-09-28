@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Trade Now',
-    Svg: require('@site/static/img/ck-moon.png').default,
+    Svg: require('@site/static/img/ck-moon-b04e80ed66ef962c8d82edf679077718.png').default,
     description: (
       <>
         Trade, earn, and own crypto on the all-in-one multichain DEX.
