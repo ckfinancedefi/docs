@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Trade Now',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/ckfinance-moon.png').default,
     description: (
       <>
         Trade, earn, and own crypto on the all-in-one multichain DEX.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Discover the Ecosystem',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/banner-ck-wallet.png').default,
     description: (
       <>
         Experience the power of community ownership, global governance,
@@ -24,7 +24,7 @@ const FeatureList = [
   },
   {
     title: 'Join our Community',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/banner-ck-solidity.png').default,
     description: (
       <>
         Together we can make the CK Finance community even stronger.
