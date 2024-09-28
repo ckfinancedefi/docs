@@ -2,7 +2,7 @@ ckteam:
   name: CK Front End Team
   title: Front End Engineer
   url: https://github.com/ckfinancedefi
-  image_url: https://docs.ck.app/img/ckteam.jpg
+  image_url: https://docs.ck.app/img/ckteam.png
   page: true
   socials:
     x: ckfinancedefi
@@ -12,7 +12,7 @@ ckdev:
   name: CK Team Developer
   title: Developer Engineer @ CK
   url: https://github.com/ckfinancedefi
-  image_url: https://docs.ck.app/img/ckteam.jpg
+  image_url: https://docs.ck.app/img/ckteam.png
   page: true
   socials:
     x: ckfinancedefi
@@ -22,7 +22,7 @@ ckupdate:
   name: CK Updates
   title: Blog Post
   url: https://github.com/ckfinancedefi
-  image_url: https://docs.ck.app/img/ckteam.jpg
+  image_url: https://docs.ck.app/img/ckteam.png
   page: true
   socials:
     x: ckfinancedefi
