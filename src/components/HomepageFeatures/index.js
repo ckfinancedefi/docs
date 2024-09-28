@@ -1,12 +1,11 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
-import ckMoon from '@site/static/img/ck-moon.png';
 
 const FeatureList = [
   {
     title: 'Trade Now',
-    Svg: ckMoon,
+    Svg: require('@site/static/img/ck-moon.svg').default,
     description: (
       <>
         Trade, earn, and own crypto on the all-in-one multichain DEX.
@@ -15,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Discover the Ecosystem',
-    Svg: require('@site/static/img/banner-ck-wallet.png').default,
+    Svg: require('@site/static/img/banner-ck-wallet.svg').default,
     description: (
       <>
         Experience the power of community ownership, global governance,
@@ -25,7 +24,7 @@ const FeatureList = [
   },
   {
     title: 'Join our Community',
-    Svg: require('@site/static/img/banner-ck-solidity.png').default,
+    Svg: require('@site/static/img/banner-ck-solidity.svg').default,
     description: (
       <>
         Together we can make the CK Finance community even stronger.
