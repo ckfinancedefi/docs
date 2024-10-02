@@ -136,6 +136,10 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/ckswap',
               },
+              {
+                label: 'Developer',
+                href: 'https://developer.ck.app/',
+              },
             ],
           },
         ],
