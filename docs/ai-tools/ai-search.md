@@ -8,6 +8,10 @@ Enjoy web searching with the most advanced AI models and stay one step ahead of 
 
 To use AI Search with CK Finance, you need to stake $CK.
 
+[AI Search](https://search.ck.app/)
+
+[Buy CK Token](https://ck.finance/)
+
 ## Enjoy unlimited access to all AI tools.
 
 * Advanced Search Capabilities: Leverage the power of AI to improve search accuracy and relevance, helping users find what they need quickly.
