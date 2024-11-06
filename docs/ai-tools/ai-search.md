@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# AI Search | CK Finance
+# AI Search
 
 Enjoy web searching with the most advanced AI models and stay one step ahead of the Google search engine.
 

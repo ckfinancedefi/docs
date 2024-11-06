@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# StockAI | CK Finance
+# StockAI
 
 An AI tool that provides quick access to resources for the latest news, charts, and current status of stocks, cryptocurrencies, gold, and foreign exchange.
 
