@@ -120,7 +120,7 @@ A fee of 2500CK or 5BNB is required for each Pull Request, you will see the mess
 * Ensuring smooth integration and handling of a massive number of assets request
 
 ### How does this Fee fit with Open Source?
-We believe in the power of open-source sof"tw"are, and essential parts of CK Wallet are open-source to contribute to the community(Wallet-Core). But CK Wallet is a branded product, and running its backend infrastructure, support, marketing, etc. has costs (done by a non-volunteer-based team). The assets repository is open source. You are free to use it and free to create your version (fork it and change it). But if you want to get into our app, you have to accept our rules, and we've chosen to ask for a contribution to include/change the information in the CK Wallet product.
+We believe in the power of open-source software, and essential parts of CK Wallet are open-source to contribute to the community(Wallet-Core). But CK Wallet is a branded product, and running its backend infrastructure, support, marketing, etc. has costs (done by a non-volunteer-based team). The assets repository is open source. You are free to use it and free to create your version (fork it and change it). But if you want to get into our app, you have to accept our rules, and we've chosen to ask for a contribution to include/change the information in the CK Wallet product.
 
 ### What do I have to pay attention to?
 * Double-check the contribution guidelines, to minimize the risk of your PR being rejected.
