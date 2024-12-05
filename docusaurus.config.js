@@ -82,7 +82,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/ckswap',
+            href: 'https://github.com/ckdotapp',
             label: 'GitHub',
             position: 'right',
           },
@@ -121,7 +121,7 @@ const config = {
               },
               {
                 label: 'X',
-                href: 'https://x.com/ckfinancedefi',
+                href: 'https://x.com/ckdotapp',
               },
             ],
           },
@@ -134,7 +134,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/ckswap',
+                href: 'https://github.com/ckdotapp',
               },
               {
                 label: 'Developer',
@@ -143,7 +143,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} CK Finance | Docs. Built with Facebook Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} CK Finance | Docs.`,
       },
       prism: {
         theme: prismThemes.github,

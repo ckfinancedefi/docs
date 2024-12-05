@@ -8,7 +8,11 @@ Here you'll find a list of CK Finance's official Social media channels and commu
 
 ## X
 
-[https://x.com/ckfinancedefi](https://x.com/ckfinancedefi)
+[https://x.com/ckdotapp](https://x.com/ckdotapp)
+
+## Telegram
+
+[https://t.me/ckfinance](https://t.me/ckfinance)
 
 ## Blog
 
@@ -18,17 +22,21 @@ Here you'll find a list of CK Finance's official Social media channels and commu
 
 [https://www.reddit.com/r/ckfinance/](https://www.reddit.com/r/ckfinance/)
 
-## Instagram
-
-[https://www.instagram.com/ckfinancedefi/](https://www.instagram.com/ckfinancedefi/)
-
 ## Discord
 
 [https://discord.gg/PrNAWrrpeg](https://discord.gg/PrNAWrrpeg)
 
-## Telegram
+## Instagram
 
-[https://t.me/ckfinance](https://t.me/ckfinance)
+[https://instagram.com/ckdotapp](https://instagram.com/ckdotapp)
+
+## Facebook
+
+[https://www.facebook.com/ckdotapp](https://www.facebook.com/ckdotapp)
+
+## GitHub
+
+[https://github.com/ckdotapp](https://github.com/ckdotapp)
 
 
 Admins will NEVER send you a direct message. If anybody approaches you directly on e.g. Telegram pretending to represent customer support, please block them and report spam.
